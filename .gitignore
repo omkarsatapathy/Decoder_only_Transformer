@@ -40,3 +40,5 @@ ENV/
 !IMDB Dataset.csv
 !tokenizer_vocab.json
 !environment.yml
+IMDB Dataset.csv
+checkpoints/
