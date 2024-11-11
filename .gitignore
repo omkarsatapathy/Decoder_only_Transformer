@@ -30,13 +30,13 @@ ENV/
 *.swp
 *.swo
 
-# Project specific
-*.csv
-tokenizer_vocab.json
-checkpoints/
-plots/
-*.pt
+# Mac
 .DS_Store
 
 # Logs
 *.log
+
+# Keep these files
+!IMDB Dataset.csv
+!tokenizer_vocab.json
+!environment.yml
